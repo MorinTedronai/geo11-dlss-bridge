@@ -1,0 +1,20 @@
+# Build output
+build/
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.nativecodeanalysis.xml
+
+# Runtime logs
+*.log
+
+# Third-party checkouts
+third_party/minhook/
+
+# Editor/IDE
+.vs/
+.vscode/

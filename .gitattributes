@@ -1,0 +1,13 @@
+* text=auto
+*.ps1 text eol=crlf
+*.asm text eol=crlf
+*.def text eol=crlf
+*.ini text eol=crlf
+*.sln text eol=crlf
+*.vcxproj text eol=crlf
+*.dll binary
+*.exe binary
+*.lib binary
+*.exp binary
+*.obj binary
+*.pdb binary
