@@ -1,5 +1,11 @@
 # geo11-dlss-bridge
 
+**This is an attempt to enable stereoscopic DLSS for both eyes using geo-11. 
+So far it was tested and verified only in one game. While the fix will work for some 
+DLSS mechanisms, it's not guaranteed to work in every case (see Limitations). 
+The repo is meant as a useful refernce and a starting point for further research. 
+Be advised that enabling DLSS to run twice doubles GPU use. The setup requires a strong rig.**
+
 **DLSS in both eyes when a game is being rendered in stereo by
 [geo-11](https://github.com/ThreeDeeJay/geo-11).**
 
